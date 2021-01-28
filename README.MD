@@ -1,6 +1,6 @@
 # Introdução à Programação
 
-Aqui encontra-se minhas soluções daas listas de exercícios e EPs
+Aqui encontra-se minhas soluções das listas de exercícios e EPs
 da primeira matéria de programação da EACH-USP
 
 Alguns códigos (a maioria) estão com soluções contendo apenas ferramentas e
