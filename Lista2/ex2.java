@@ -5,6 +5,6 @@ class ex2{
         int c = 10;
         System.out.println("c = "+c);
         if(a>0 && a<b) c = 0;
-        System.out.println("afte the processing... c = "+c);
+        System.out.println("after the processing... c = "+c);
     }
 }
