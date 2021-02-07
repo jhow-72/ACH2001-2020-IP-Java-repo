@@ -8,13 +8,13 @@ class ex12{
     public static void main(String[] args){
         Scanner key = new Scanner(System.in);
 
-        System.out.print("Enter the first side: ");
+        System.out.print("Enter the length of the first side: ");
         int a = key.nextInt();
 
-        System.out.print("Enter the second side: ");
+        System.out.print("Enter the length of the second side: ");
         int b = key.nextInt();
 
-        System.out.print("Enter the third side: ");
+        System.out.print("Enter the length of the third side: ");
         int c = key.nextInt();
 
         if(check(a, b, c))
