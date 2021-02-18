@@ -1,5 +1,5 @@
 /*
-    Recebe um numero do usúaria
+    Recebe um numero do usúario
     passa como parâmetro 
     e verifica se é primo ou não
 */
